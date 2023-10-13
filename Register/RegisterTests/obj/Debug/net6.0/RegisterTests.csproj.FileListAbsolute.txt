@@ -1,0 +1,5 @@
+D:\ДЭ\Register\RegisterTests\obj\Debug\net6.0\RegisterTests.csproj.AssemblyReference.cache
+D:\ДЭ\Register\RegisterTests\obj\Debug\net6.0\RegisterTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЭ\Register\RegisterTests\obj\Debug\net6.0\RegisterTests.AssemblyInfoInputs.cache
+D:\ДЭ\Register\RegisterTests\obj\Debug\net6.0\RegisterTests.AssemblyInfo.cs
+D:\ДЭ\Register\RegisterTests\obj\Debug\net6.0\RegisterTests.csproj.CoreCompileInputs.cache

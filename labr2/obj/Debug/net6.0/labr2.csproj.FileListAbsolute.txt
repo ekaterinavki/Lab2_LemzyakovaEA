@@ -1,0 +1,15 @@
+D:\ДЭ\labr2\bin\Debug\net6.0\labr2.exe
+D:\ДЭ\labr2\bin\Debug\net6.0\labr2.deps.json
+D:\ДЭ\labr2\bin\Debug\net6.0\labr2.runtimeconfig.json
+D:\ДЭ\labr2\bin\Debug\net6.0\labr2.dll
+D:\ДЭ\labr2\bin\Debug\net6.0\labr2.pdb
+D:\ДЭ\labr2\obj\Debug\net6.0\labr2.csproj.AssemblyReference.cache
+D:\ДЭ\labr2\obj\Debug\net6.0\labr2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ДЭ\labr2\obj\Debug\net6.0\labr2.AssemblyInfoInputs.cache
+D:\ДЭ\labr2\obj\Debug\net6.0\labr2.AssemblyInfo.cs
+D:\ДЭ\labr2\obj\Debug\net6.0\labr2.csproj.CoreCompileInputs.cache
+D:\ДЭ\labr2\obj\Debug\net6.0\labr2.dll
+D:\ДЭ\labr2\obj\Debug\net6.0\refint\labr2.dll
+D:\ДЭ\labr2\obj\Debug\net6.0\labr2.pdb
+D:\ДЭ\labr2\obj\Debug\net6.0\labr2.genruntimeconfig.cache
+D:\ДЭ\labr2\obj\Debug\net6.0\ref\labr2.dll
