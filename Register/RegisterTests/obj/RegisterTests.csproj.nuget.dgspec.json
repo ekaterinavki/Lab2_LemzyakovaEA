@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ДЭ\\Register\\RegisterTests\\RegisterTests.csproj": {}
+    "D:\\Lab2_LemzyakovaEA\\Register\\RegisterTests\\RegisterTests.csproj": {}
   },
   "projects": {
-    "D:\\ДЭ\\Register\\RegisterTests\\RegisterTests.csproj": {
+    "D:\\Lab2_LemzyakovaEA\\Register\\Register.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ДЭ\\Register\\RegisterTests\\RegisterTests.csproj",
-        "projectName": "RegisterTests",
-        "projectPath": "D:\\ДЭ\\Register\\RegisterTests\\RegisterTests.csproj",
+        "projectUniqueName": "D:\\Lab2_LemzyakovaEA\\Register\\Register.csproj",
+        "projectName": "Register",
+        "projectPath": "D:\\Lab2_LemzyakovaEA\\Register\\Register.csproj",
         "packagesPath": "C:\\Users\\lemzy\\.nuget\\packages\\",
-        "outputPath": "D:\\ДЭ\\Register\\RegisterTests\\obj\\",
+        "outputPath": "D:\\Lab2_LemzyakovaEA\\Register\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lemzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,7 +42,80 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.3.2, )"
+              "version": "[17.7.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Lab2_LemzyakovaEA\\Register\\RegisterTests\\RegisterTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Lab2_LemzyakovaEA\\Register\\RegisterTests\\RegisterTests.csproj",
+        "projectName": "RegisterTests",
+        "projectPath": "D:\\Lab2_LemzyakovaEA\\Register\\RegisterTests\\RegisterTests.csproj",
+        "packagesPath": "C:\\Users\\lemzy\\.nuget\\packages\\",
+        "outputPath": "D:\\Lab2_LemzyakovaEA\\Register\\RegisterTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lemzy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Lab2_LemzyakovaEA\\Register\\Register.csproj": {
+                "projectPath": "D:\\Lab2_LemzyakovaEA\\Register\\Register.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.2, )"
             },
             "NUnit": {
               "target": "Package",
@@ -54,7 +127,7 @@
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[4.3.0, )"
+              "version": "[4.5.0, )"
             },
             "coverlet.collector": {
               "target": "Package",

@@ -3,3 +3,9 @@ D:\ДЭ\labr2\MyProject.Tests\obj\Debug\net6.0\MyProject.Tests.GeneratedMSBuildE
 D:\ДЭ\labr2\MyProject.Tests\obj\Debug\net6.0\MyProject.Tests.AssemblyInfoInputs.cache
 D:\ДЭ\labr2\MyProject.Tests\obj\Debug\net6.0\MyProject.Tests.AssemblyInfo.cs
 D:\ДЭ\labr2\MyProject.Tests\obj\Debug\net6.0\MyProject.Tests.csproj.CoreCompileInputs.cache
+D:\Lab2_LemzyakovaEA\labr2\MyProject.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Lab2_LemzyakovaEA\labr2\MyProject.Tests\obj\Debug\net6.0\MyProject.Tests.csproj.AssemblyReference.cache
+D:\Lab2_LemzyakovaEA\labr2\MyProject.Tests\obj\Debug\net6.0\MyProject.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab2_LemzyakovaEA\labr2\MyProject.Tests\obj\Debug\net6.0\MyProject.Tests.AssemblyInfoInputs.cache
+D:\Lab2_LemzyakovaEA\labr2\MyProject.Tests\obj\Debug\net6.0\MyProject.Tests.AssemblyInfo.cs
+D:\Lab2_LemzyakovaEA\labr2\MyProject.Tests\obj\Debug\net6.0\MyProject.Tests.csproj.CoreCompileInputs.cache

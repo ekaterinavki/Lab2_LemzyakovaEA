@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7SvowOwihB6eIowYzEdKs91aw+UsIH+j0ZPCcNK1OepDBz3dgx/l1g4KMOXT55Yt7xRhxewXoEIOEPvFNy3aeA==",
+  "dgSpecHash": "bjb1xT5jqt4fX9NuClSld/BJ0VFeapjDe6VEicasE/kkR1HhzUABdOPsh7ClU/D17yD0sNyNOOkWX+vJbwRTmw==",
   "success": true,
-  "projectFilePath": "D:\\ДЭ\\labr2\\labr2.csproj",
+  "projectFilePath": "D:\\Lab2_LemzyakovaEA\\labr2\\labr2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lemzy\\.nuget\\packages\\microsoft.codecoverage\\17.7.2\\microsoft.codecoverage.17.7.2.nupkg.sha512",
     "C:\\Users\\lemzy\\.nuget\\packages\\microsoft.net.test.sdk\\17.7.2\\microsoft.net.test.sdk.17.7.2.nupkg.sha512",
